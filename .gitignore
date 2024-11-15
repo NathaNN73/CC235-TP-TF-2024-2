@@ -1,0 +1,15 @@
+*.mp4
+*.avi
+*.npy
+*.npz
+*.h5
+*.jpg
+*.png
+data/test/ 
+data/test/
+data/train/
+data/train/
+data/valid/
+data/valid/
+code/__pycache__/
+video/
